@@ -1,5 +1,6 @@
 public class MajorityElement {
 }
+//..
 //class Solution {
 //    public int majorityElement(int[] nums) {
 //        int ele=0;
